@@ -7,4 +7,5 @@ Part 2 : Whitebox deep learning
 
 Part 3 : Gradient Descent in python from scratch without using any libraries - various versions of it - on linear regression problem
 
+**Submitted By: Priyanka Math**
 
